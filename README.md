@@ -1,1 +1,3 @@
-# Testing-playground
+# maven-project
+
+Simple Maven Project
